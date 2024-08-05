@@ -39,3 +39,6 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+UserSettings/EditorUserSettings.asset
+UserSettings/Layouts/default-2022.dwlt
+UserSettings/EditorUserSettings.asset
